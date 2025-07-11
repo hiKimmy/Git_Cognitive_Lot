@@ -27,7 +27,7 @@
 				<workgroup name="Юридический департамент"/>
 			</access>
 		</field>
-		<field name="LotNautver223" value="На согласовании" >
+		<field name="LotNautver223" value="На согласовании"е >
 			<access>
 				<workgroup name="Инициаторы"/> 
 				<workgroup name="Бюджетный комитет"/> 
